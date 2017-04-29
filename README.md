@@ -36,7 +36,8 @@ npm install --save angular-input-masks
 <script src="angular-input-masks-standalone.min.js"></script>
 ```
 
-Obs: for npm the build scripts are available inside ```releases``` folder.
+Obs 1: for npm the build scripts are available inside ```releases``` folder.
+Obs 2: use from: https://github.com/assisrafael/bower-angular-input-masks
 
 2. Include the module name ```ui.utils.masks``` in your angular app. For example:
 
